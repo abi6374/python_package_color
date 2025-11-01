@@ -32,6 +32,6 @@ dependencies = []
 dev = ["pytest>=7.0"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/color-print"
-Repository = "https://github.com/yourusername/color-print.git"
-Issues = "https://github.com/yourusername/color-print/issues"
+Homepage = "https://github.com/abi6374/color-print"
+Repository = "https://github.com/abi6374/color-print.git"
+Issues = "https://github.com/abi6374/color-print/issues"
